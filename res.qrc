@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ground.png">image/GROUND.png</file>
+        <file alias="bird.png">image/Normal_Bird_1.png</file>
+        <file>image/background.png</file>
+        <file>image/BIRD_BLUE.png</file>
+        <file>image/BIRD_GREEN.png</file>
+        <file>image/BIRD_GREY.png</file>
+        <file>image/BIRD_YELLOW.png</file>
+        <file>image/exit.png</file>
+        <file>image/PIGLETTE_BIG_01.png</file>
+        <file>image/restart.png</file>
+        <file>image/slingshot.png</file>
+        <file>image/wood.png</file>
+    </qresource>
+</RCC>
